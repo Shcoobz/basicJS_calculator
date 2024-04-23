@@ -40,3 +40,5 @@ The clear button resets the calculator's display and state, allowing users to st
 ---
 
 _Note: This document provides an overview of basicJS_Calculator. For detailed instructions and more information, please refer to the source code documentation._
+
+This project has been enhanced and converted into a React-based application, which can be viewed [here](https://github.com/Shcoobz/react_calculator/). The React version integrates more advanced state management and component-based architecture for improved maintainability and scalability.
